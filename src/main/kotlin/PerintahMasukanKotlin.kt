@@ -5,7 +5,7 @@ fun main(args: Array<String>){
     var input: String
     input = readLine()!!
     var output: String
-    output = input + "bla, " +input + "bla!"
+    output = input + ", " +input + "!"
     println(output)
 
 }
